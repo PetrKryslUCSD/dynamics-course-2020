@@ -27,21 +27,13 @@ The applications can be explored with tutorials. Check out the documentation of:
 1. Make sure you have [Git for Windows](https://gitforwindows.org/). 
 2. Download the portable Julia environment for this course[???]()
 
-### Instructions
+### Detailed installation and operation instructions
 
 The portable version of Julia in this folder is only for the Windows platform.
 
-Clone the tutorial repositories you would like to explore:
-```
-git clone https://github.com/PetrKryslUCSD/FinEtoolsDeforLinearTutorials.jl.git
-git clone https://github.com/PetrKryslUCSD/FinEtoolsAcousticsTutorials.jl.git
-git clone https://github.com/PetrKryslUCSD/FinEtoolsFlexBeamsTutorials.jl.git
-git clone https://github.com/PetrKryslUCSD/FinEtoolsVibInFluidsTutorials.jl.git
-```
-
 Explore the tutorials with Julia:
 
-1. Start the VS Code IDE by double-clicking the bash script `double_click_me_to_start.sh`.
+1. Start the VS Code IDE by double-clicking the bash script `double_click_me_to_start.sh`. If this is for the first time, the installer will clone and initialize all tutorial packages. This may take 5 to 10 minutes, depending on the speed of your computer and the network. When the installation is finished, the IDE pops up.
 2. Open the folder of the tutorial. For instance `FinEtoolsAcousticsTutorials.jl`. 
 3. Start the Julia REPL (command line). Press `ctrl+shift+p` to get the command pallete and type 'Julia'. Select `Julia: Start REPL`. 
 4. Now execute in the REPL the following command line (copy and paste into the terminal pane and then hit return)
