@@ -25,7 +25,7 @@ The applications can be explored with tutorials. Check out the documentation of:
 ## Software environment for space running the tutorials
 
 1. Make sure you have [Git for Windows](https://gitforwindows.org/). 
-2. Download the portable Julia environment for this course[???]()
+2. Download the portable Julia environment for this course, [Portable_Julia.zip](http://hogwarts.ucsd.edu/~pkrysl/shared/Portable_Julia.zip).
 
 ### Detailed installation and operation instructions
 
