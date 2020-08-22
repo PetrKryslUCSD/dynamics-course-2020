@@ -22,7 +22,7 @@ The applications can be explored with tutorials. Check out the documentation of:
 - [FinEtoolsVibInFluidsTutorials](https://github.com/PetrKryslUCSD/FinEtoolsVibInFluidsTutorials.jl): Vibration of structures in fluids.
 - [FinEtoolsFlexBeamsTutorials.jl](https://github.com/PetrKryslUCSD/FinEtoolsFlexBeamsTutorials.jl): Dynamics of flexible beams.
 
-## Software environment for trying it out
+## Software environment for space running the tutorials
 
 1. Make sure you have [Git for Windows](https://gitforwindows.org/). 
 2. Download the portable Julia environment for this course[???]()
@@ -36,6 +36,7 @@ Clone the tutorial repositories you would like to explore:
 git clone https://github.com/PetrKryslUCSD/FinEtoolsDeforLinearTutorials.jl.git
 git clone https://github.com/PetrKryslUCSD/FinEtoolsAcousticsTutorials.jl.git
 git clone https://github.com/PetrKryslUCSD/FinEtoolsFlexBeamsTutorials.jl.git
+git clone https://github.com/PetrKryslUCSD/FinEtoolsVibInFluidsTutorials.jl.git
 ```
 
 Explore the tutorials with Julia:
