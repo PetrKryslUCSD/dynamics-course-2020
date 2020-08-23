@@ -33,12 +33,17 @@ The portable version of Julia in this folder is only for the Windows platform.
 
 Explore the tutorials with Julia:
 
-1. Start the VS Code IDE by double-clicking the bash script `double_click_me_to_start.sh`. If this is  the first time this script runs, the installer will clone and initialize all tutorial packages. This may take 5 to 10 minutes, depending on the speed of your CPU, the hard drive, and the network. When the installation is finished, the IDE pops up.
-2. Open the folder of the tutorial. For instance `FinEtoolsAcousticsTutorials.jl`. 
+1. Start the VS Code IDE by double-clicking the bash script
+`double_click_me_to_start.sh`. If this is  the first time this script runs, the
+installer will install and initialize Julia, and clone and initialize all the
+tutorial packages. This may take 5 to 10 minutes, depending on the speed of
+your CPU, the hard drive, and the network. When the installation is finished,
+the IDE pops up.
+
+2. Open the folder of the tutorial in the IDE. For instance
+`FinEtoolsAcousticsTutorials.jl`. 
+
 3. Start the Julia REPL (command line). Press `ctrl+shift+p` to get the command pallete and type 'Julia'. Select `Julia: Start REPL`. 
-4. Now execute in the REPL the following command line (copy and paste into the terminal pane and then hit return)
-```
-using Pkg; pkg"activate .; instantiate"
-```
-5. Finally, open the tutorial you would like to execute. Individual lines can be executed with `ctrl+enter`, while entire code cells can be executed with `shift+enter`. The entire file can be executed by  `ctrl+shift+p`, typing `Julia: Execute File` and selecting this command.
+
+4. Finally, open the tutorial you would like to execute. Individual lines can be executed with `ctrl+enter`, while entire code cells can be executed with `shift+enter`. The entire file can be executed by  `ctrl+shift+p`, typing `Julia: Execute File` and selecting this command.
 
