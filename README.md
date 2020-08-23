@@ -22,7 +22,7 @@ The applications can be explored with tutorials. Check out the documentation of:
 - [FinEtoolsVibInFluidsTutorials](https://github.com/PetrKryslUCSD/FinEtoolsVibInFluidsTutorials.jl): Vibration of structures in fluids.
 - [FinEtoolsFlexBeamsTutorials.jl](https://github.com/PetrKryslUCSD/FinEtoolsFlexBeamsTutorials.jl): Dynamics of flexible beams.
 
-## Software environment for space running the tutorials
+## Software environment for running the tutorials
 
 1. Make sure you have [Git for Windows](https://gitforwindows.org/). 
 2. Download the portable Julia environment for this course, [Portable_Julia.zip](http://hogwarts.ucsd.edu/~pkrysl/shared/Portable_Julia.zip).
@@ -33,7 +33,7 @@ The portable version of Julia in this folder is only for the Windows platform.
 
 Explore the tutorials with Julia:
 
-1. Start the VS Code IDE by double-clicking the bash script `double_click_me_to_start.sh`. If this is for the first time, the installer will clone and initialize all tutorial packages. This may take 5 to 10 minutes, depending on the speed of your computer and the network. When the installation is finished, the IDE pops up.
+1. Start the VS Code IDE by double-clicking the bash script `double_click_me_to_start.sh`. If this is  the first time this script runs, the installer will clone and initialize all tutorial packages. This may take 5 to 10 minutes, depending on the speed of your CPU, the hard drive, and the network. When the installation is finished, the IDE pops up.
 2. Open the folder of the tutorial. For instance `FinEtoolsAcousticsTutorials.jl`. 
 3. Start the Julia REPL (command line). Press `ctrl+shift+p` to get the command pallete and type 'Julia'. Select `Julia: Start REPL`. 
 4. Now execute in the REPL the following command line (copy and paste into the terminal pane and then hit return)
