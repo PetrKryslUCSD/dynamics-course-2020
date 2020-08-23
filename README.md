@@ -45,5 +45,5 @@ the IDE pops up.
 
 3. Start the Julia REPL (command line). Press `ctrl+shift+p` to get the command pallete and type 'Julia'. Select `Julia: Start REPL`. 
 
-4. Finally, open the tutorial you would like to execute. Individual lines can be executed with `ctrl+enter`, while entire code cells can be executed with `shift+enter`. The entire file can be executed by  `ctrl+shift+p`, typing `Julia: Execute File` and selecting this command.
+4. Finally, open the tutorial you would like to execute (they are in the `src` subfolder of the tutorials folder). Individual lines can be executed with `ctrl+enter`, while entire code cells can be executed with `shift+enter`. The entire file can be executed by  `ctrl+shift+p`, typing `Julia: Execute File` and selecting this command.
 
