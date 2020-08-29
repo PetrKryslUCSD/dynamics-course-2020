@@ -24,9 +24,11 @@ The applications can be explored with tutorials. Check out the documentation of:
 
 ## Software environment for running the tutorials
 
-1. Make sure you have [Git for Windows](https://gitforwindows.org/). 
-2. Download the portable Julia environment for this course, [Portable_Julia.zip](http://hogwarts.ucsd.edu/~pkrysl/shared/Portable_Julia.zip).
-3. If you don't have Paraview for visualizing finite element meshes and results, you may wish to install that from [https://www.paraview.org/download/](https://www.paraview.org/download/). Please make sure that the executable is in the path.
+a. Make sure you have [Git for Windows](https://gitforwindows.org/). 
+
+b. If you don't have Paraview for visualizing finite element meshes and results, you may wish to install that from [https://www.paraview.org/download/](https://www.paraview.org/download/). Please make sure that the executable is in the path.
+
+c. Download the portable Julia environment for this course, [Portable_Julia.zip](http://hogwarts.ucsd.edu/~pkrysl/shared/Portable_Julia.zip). Expand the zip file into any folder (even the USB drives), and follow the instructions below.
 
 ### Detailed installation and operation instructions
 
@@ -46,5 +48,11 @@ the IDE pops up.
 
 3. Start the Julia REPL (command line). Press `ctrl+shift+p` to get the command pallete and type 'Julia'. Select `Julia: Start REPL`. 
 
-4. Finally, open the tutorial you would like to execute (they are in the `src` subfolder of the tutorials folder). Individual lines can be executed with `ctrl+enter`, while entire code cells can be executed with `shift+enter`. The entire file can be executed by  `ctrl+shift+p`, typing `Julia: Execute File` and selecting this command.
+4. Finally, open the tutorial you would like to execute (they are in the `src`
+subfolder of the tutorials folder). Individual lines can be executed with
+`ctrl+enter`, while entire code cells can be executed with `shift+enter`. The
+entire file can be executed by  `ctrl+shift+p`, typing `Julia: Execute File`
+and selecting this command. The shortcut key combination `alt+ctrl+enter` will
+run this command too. In fact, if Julia is not running to begin with, this
+shortcut will fire up Julia and execute the file subsequently.
 
