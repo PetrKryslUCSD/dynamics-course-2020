@@ -28,7 +28,10 @@ a. Make sure you have [Git for Windows](https://gitforwindows.org/).
 
 b. If you don't have Paraview for visualizing finite element meshes and results, you may wish to install that from [https://www.paraview.org/download/](https://www.paraview.org/download/). Please make sure that the executable is in the path.
 
-c. Download the portable Julia environment for this course, [Portable_Julia.zip](http://hogwarts.ucsd.edu/~pkrysl/shared/Portable_Julia.zip). Expand the zip file into any folder (even the USB drives), and follow the instructions below.
+c. Download the portable Julia environment for this course, [Portable_Julia.zip]
+(http://hogwarts.ucsd.edu/~pkrysl/shared/Portable_Julia.zip). Expand the zip
+file into any folder (even the USB drives), change your working folder to be
+`Portable_Julia`, and follow the instructions below.
 
 ### Detailed installation and operation instructions
 
