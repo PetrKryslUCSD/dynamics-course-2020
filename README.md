@@ -17,10 +17,10 @@ The theory implemented in [FinEtools.jl](https://github.com/PetrKryslUCSD/FinEto
 
 The applications can be explored with tutorials. Check out the documentation of:
 
-- [FinEtoolsDeforLinearTutorials.jl](https://github.com/PetrKryslUCSD/FinEtoolsDeforLinearTutorials.jl): Linear structural dynamics.
-- [FinEtoolsAcousticsTutorials.jl](https://github.com/PetrKryslUCSD/FinEtoolsAcousticsTutorials.jl): Acoustics.
-- [FinEtoolsVibInFluidsTutorials](https://github.com/PetrKryslUCSD/FinEtoolsVibInFluidsTutorials.jl): Vibration of structures in fluids.
-- [FinEtoolsFlexBeamsTutorials.jl](https://github.com/PetrKryslUCSD/FinEtoolsFlexBeamsTutorials.jl): Dynamics of flexible beams.
+- [FinEtoolsDeforLinearTutorials.jl](https://github.com/PetrKryslUCSD/FinEtoolsDeforLinearTutorials.jl): Linear structural dynamics. For Lectures 9 and 10.
+- [FinEtoolsAcousticsTutorials.jl](https://github.com/PetrKryslUCSD/FinEtoolsAcousticsTutorials.jl): Acoustics. For Lecture 25.
+- [FinEtoolsVibInFluidsTutorials](https://github.com/PetrKryslUCSD/FinEtoolsVibInFluidsTutorials.jl): Vibration of structures in fluids. For Lecture 25.
+- [FinEtoolsFlexBeamsTutorials.jl](https://github.com/PetrKryslUCSD/FinEtoolsFlexBeamsTutorials.jl): Dynamics of flexible beams. For Lecture 14.
 
 ## Software environment for running the tutorials
 
